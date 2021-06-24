@@ -1,0 +1,7 @@
+**************************************************************
+Weather Status for - SILIGURI  // 24 Jun 2021 | 01:37:19 PM
+**************************************************************
+Current temperature is: 31.49 deg C
+Current weather desc  :broken clouds
+Current Humidity      :68%
+Current wind speed    :1.78kmph
